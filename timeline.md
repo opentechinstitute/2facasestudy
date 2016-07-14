@@ -2,6 +2,7 @@ Two-Factor Timeline
 ===
 
 |Date|What Happened|Notes|
+|----|-------------|-----|
 |1965|First ATM with inserted banker's check + PIN authentication|Card + PIN for ATMs is an early example of 2FA|
 |1984|Patent applied for by RSA for generating "non-predictable codes" for their two factor system|Patent granted in 1988|
 |1986|First RSA 2FA keyfob sold||
